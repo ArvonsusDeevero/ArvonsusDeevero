@@ -34,12 +34,12 @@ The gameplay is fast-paced and competitive, testing your reflexes, timing, and p
       <td valign="text-top">Side Scroll is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a ">Read More</a></td> <!--link1-->
-      <td align="center"><a ">Read More</a></td> <!--link2-->
+      <td align="center"><a">Read More</a></td> <!--link1-->
+      <td align="center"><a">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a ">Trailer</a></td> <!--link1-->
-      <td align="center"><a ">Trailer</a></td> <!--link2-->
+      <td align="center"><a">Trailer</a></td> <!--link1-->
+      <td align="center"><a">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
