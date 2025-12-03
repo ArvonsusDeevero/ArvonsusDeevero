@@ -14,8 +14,8 @@ v33der29@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Side Scroll</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Top Down Plane Shooter</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a></a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -34,16 +34,15 @@ The gameplay is fast-paced and competitive, testing your reflexes, timing, and p
       <td valign="text-top">Side Scroll is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a">Read More</a></td> <!--link1-->
-      <td align="center"><a">Read More</a></td> <!--link2-->
+      <td align="center"><a">Read More</a></td> <!--link 3-->
+      <td align="center"><a">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
-      <td align="center"><a">Trailer</a></td> <!--link1-->
-      <td align="center"><a">Trailer</a></td> <!--link2-->
+      <td align="center"><a">Trailer</a></td> <!--link 3-->
+      <td align="center"><a">Trailer</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
-
 
 <br>
 
