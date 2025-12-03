@@ -14,7 +14,7 @@ v33der29@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Top Down Plane Shooter</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a></a></th> <!--tittle 4-->
     </tr>
   </thead>
@@ -31,7 +31,8 @@ v33der29@gmail.com
       <td valign="text-top">Space Pong is a 2D arcade-style pong game. Players control paddles on opposite sides of the screen and must deflect the ball while trying to score points by sending it past their opponent’s paddle.
 
 The gameplay is fast-paced and competitive, testing your reflexes, timing, and precision. Each match becomes more intense as the ball speeds up, creating a thrilling challenge for both new and experienced players.</td> <!--desc-->
-      <td valign="text-top">Side Scroll is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.</td> <!--desc-->
+     
+  <td valign="text-top">Side Scroll is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a">Read More</a></td> <!--link 3-->
