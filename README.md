@@ -15,7 +15,7 @@ v33der29@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a></a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Side Scroll</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -51,8 +51,8 @@ The gameplay is fast-paced and competitive, testing your reflexes, timing, and p
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Top Down Plane Shooter</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a></a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Pong 2D</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>First Project</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
