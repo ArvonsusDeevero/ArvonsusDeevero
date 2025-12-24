@@ -24,7 +24,7 @@ v33der29@gmail.com
         <img src="" alt="Glowing Pong" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="Side Scroll" style="width:100%;height:auto;">
+        <img src="" alt="Shadow Run" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ v33der29@gmail.com
         The gameplay is fast-paced and competitive, testing your reflexes, timing, and precision. Each match becomes more intense as the ball speeds up, creating a thrilling challenge for both new and experienced players.
       </td>
       <td valign="top">
-        Side Scroll is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.
+        Shadow Run is a 2D side-scrolling adventure game that takes players on a mysterious journey through a dark and atmospheric world. You play as a small glowing spirit navigating through shadows, solving challenges, and avoiding deadly obstacles that stand in your way.
       </td>
     </tr>
     <tr>
@@ -70,17 +70,10 @@ v33der29@gmail.com
   <tbody>
     <tr>
       <td align="center">
-         <video 
-          src="https://raw.githubusercontent.com/ArvonsusDeevero/Pong-Ball-Gameplay/main/1224(4).mp4"
-          style="width:100%; height:auto;"
-          autoplay
-          loop
-          muted
-          playsinline>
-        </video>
+         <img src="Images/First-Game.png" alt="Pong Ball" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="First Project" style="width:100%;height:auto;">
+        <img src="Images/First-Game.png" alt="First Project" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
