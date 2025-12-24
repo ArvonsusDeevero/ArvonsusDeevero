@@ -70,7 +70,14 @@ v33der29@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="Pong Ball" style="width:100%;height:auto;">
+         <video 
+          src="https://raw.githubusercontent.com/ArvonsusDeevero/Pong-Ball-Gameplay/main/1224(4).mp4"
+          style="width:100%; height:auto;"
+          autoplay
+          loop
+          muted
+          playsinline>
+        </video>
       </td>
       <td align="center">
         <img src="" alt="First Project" style="width:100%;height:auto;">
