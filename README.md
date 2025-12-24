@@ -73,7 +73,8 @@ v33der29@gmail.com
          <img src="Images/First-Game.png" alt="Pong Ball" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="Images/First-Game.png" alt="First Project" style="width:100%;height:auto;">
+        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/firstupload2/main/Images/FirstGame.png" alt="First Game" style="width:100%;height:auto;">
+" alt="First Project" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
