@@ -21,10 +21,10 @@ v33der29@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="Glowing Pong" style="width:100%;height:auto;">
+        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/GlowingPong/main/Images/GlowingPong.png" alt="Glowing Pong" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="Shadow Run" style="width:100%;height:auto;">
+        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/SideScroll3/main/Images/SideScroll.png" alt="Shadow Run" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -70,11 +70,10 @@ v33der29@gmail.com
   <tbody>
     <tr>
       <td align="center">
-         <img src="Images/First-Game.png" alt="Pong Ball" style="width:100%;height:auto;">
+         <img src="https://raw.githubusercontent.com/ArvonsusDeevero/Pong-Ball/main/Images/PongBall.png" alt="Pong Ball" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/firstupload2/main/Images/FirstGame.png" alt="First Game" style="width:100%;height:auto;">
-" alt="First Project" style="width:100%;height:auto;">
+        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/firstupload2/main/Images/FirstGame.png" alt="First Project" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
