@@ -21,7 +21,7 @@ v33der29@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/GlowingPong/main/Images/GlowingPong.png" alt="Glowing Pong" style="width:100%;height:auto;">
+        <img src="https://raw.githubusercontent.com/ArvonsusDeevero/Glowing-Pong/main/Images/GlowingPong.png" alt="Glowing Pong" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/ArvonsusDeevero/SideScroll3/main/Images/SideScroll.png" alt="Shadow Run" style="width:100%;height:auto;">
